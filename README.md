@@ -34,7 +34,7 @@ and follow any instructions it gives you.
 
 To install tg, run
 
-	brew install dmnc/horology/tg
+	brew install PetitLuc38/tg-3/tg
 	
 You can now launch tg by typing
 
