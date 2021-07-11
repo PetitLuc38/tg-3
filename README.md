@@ -83,7 +83,7 @@ issue the following commands.
 
 ```sh
 pacman -S mingw-w64-x86_64-gcc make pkg-config mingw-w64-x86_64-gtk3 mingw-w64-x86_64-portaudio mingw-w64-x86_64-fftw git autoconf automake libtool
-git clone https://github.com/vacaboja/tg.git
+git clone https://github.com/PetitLuc38/tg-3.git
 cd tg
 ./autogen.sh
 ./configure
