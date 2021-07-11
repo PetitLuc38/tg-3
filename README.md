@@ -63,7 +63,7 @@ gtk+3, portaudio2, fftw3 (all available as open-source).
 
 Release build:
 ```sh
-git clone https://github.com/vacaboja/tg.git
+git clone https://github.com/PetitLuc38/tg-3.git
 cd tg
 ./autogen.sh
 ./configure
